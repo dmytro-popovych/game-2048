@@ -33,4 +33,4 @@
 6. After completing the game, you can click the "Restart" button to start a new game.
 
 **Project Preview:**
-    - [DEMO LINK](https://dmytro-popovych.github.io/game-2048/)
+  - [DEMO LINK](https://dmytro-popovych.github.io/game-2048/)
